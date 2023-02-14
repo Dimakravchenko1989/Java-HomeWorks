@@ -3,12 +3,12 @@ package HomeWork_01;
 // Задача 2. Вывести все простые числа от 1 до 1000
 
 public class Task_2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // Вывод списка всех простых чисел
         for (int i = 1; i < 1000; i++)
             if (primeNumbers(i))
                 System.out.print(i + " ");
     }
-
+    //Функция проверки числа, простое оно или нет
     public static boolean primeNumbers(int number) {
         for (int i = 2; i * i <= number; i++)
             if (number % i == 0)

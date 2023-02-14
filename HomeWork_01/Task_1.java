@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        
+        // Волучение данных от пользователя, вывод на консоль
         System.out.print("Введите N для вычисления треугольного числа N: ");
         int number1 = Integer.parseInt(sc.nextLine());
         System.out.print("Ответ: ");
@@ -19,10 +20,12 @@ public class Task_1 {
 
         sc.close();
     }
+    // Функция нахождения треуголного числа
 
     public static int triangularNumber(int number1) {
         return (number1 / 2) * (number1 + 1);
     }
+    // Функция нахождения факториала числа
 
     public static int factorial(int number2) {
         int result = 1;
