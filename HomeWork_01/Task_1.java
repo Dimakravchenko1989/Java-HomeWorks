@@ -20,7 +20,7 @@ public class Task_1 {
 
         sc.close();
     }
-    // Функция нахождения треуголного числа
+    // Функция нахождения треугольного числа
 
     public static int triangularNumber(int number1) {
         return (number1 / 2) * (number1 + 1);
