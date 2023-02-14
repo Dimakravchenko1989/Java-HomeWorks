@@ -7,7 +7,7 @@ public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        // Волучение данных от пользователя, вывод на консоль
+        // Получение данных от пользователя, вывод в консоль
         System.out.print("Введите N для вычисления треугольного числа N: ");
         int number1 = Integer.parseInt(sc.nextLine());
         System.out.print("Ответ: ");
