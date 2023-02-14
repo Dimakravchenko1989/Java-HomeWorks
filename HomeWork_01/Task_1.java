@@ -32,7 +32,6 @@ public class Task_1 {
 
         for (int i = 2; i <= number2; i++) 
         result *= i;
-
         return result;
     }
 }
