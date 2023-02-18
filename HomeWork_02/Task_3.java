@@ -1,19 +1,15 @@
-
+// Задача 3. Напишите метод, который принимает на вход строку (String) 
+// и определяет является ли строка палиндромом (возвращает boolean значение)
 
 import java.util.Scanner;
 
-// Определение является ли строка палиндромом
-
-
-
 public class Task_3 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in, "cp866");
-        System.out.print("Введите : ");
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Введите: ");
         String s = sc.nextLine();
         sc.close();
        
-        // String s = "dadad";
         if (palindrom(s)){
             System.out.println("\nВведенная строка является палиндромом!\n");
         }
@@ -31,4 +27,5 @@ public class Task_3 {
         }
         else {return false;}
     }
+    
 }

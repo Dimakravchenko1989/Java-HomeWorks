@@ -1,0 +1,24 @@
+февр. 17, 2023 2:39:01 PM Task_1 main
+INFO: Sort Array
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [2, 1, 14, -7, 3, 89, 0]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [2, 1, -7, 14, 3, 89, 0]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [2, 1, -7, 3, 14, 89, 0]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [2, 1, -7, 3, 14, 0, 89]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [1, 2, -7, 3, 14, 0, 89]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [1, -7, 2, 3, 14, 0, 89]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [1, -7, 2, 3, 0, 14, 89]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [-7, 1, 2, 3, 0, 14, 89]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [-7, 1, 2, 0, 3, 14, 89]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [-7, 1, 0, 2, 3, 14, 89]
+февр. 17, 2023 2:39:01 PM Task_1 sortArray
+INFO: [-7, 0, 1, 2, 3, 14, 89]
