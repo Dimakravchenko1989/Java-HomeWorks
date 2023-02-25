@@ -3,7 +3,7 @@
 package HomeWork_03;
 
 import java.util.ArrayList;
-public class Task_2 {
+public class Task_3 {
     public static void main(String[] args) {
         ArrayList<Integer> array = new ArrayList<>();
         System.out.println("Исходный список: "); // Задаём список
