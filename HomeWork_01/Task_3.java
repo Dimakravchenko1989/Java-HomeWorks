@@ -22,7 +22,7 @@ public class Task_3 {
         switch (action) { // Выбор математического действия
             case "+":
                 System.out.println(num1 + num2);
-                break;
+                // break;
             case "-":
                 System.out.println(num1 - num2);
                 break;
