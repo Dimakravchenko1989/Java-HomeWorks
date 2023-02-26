@@ -38,7 +38,7 @@ public class Task_3 {
     }
 
     // Фунция выбора математического действия
-
+    
     public static void mathematicAction(LinkedList<Double> list, String action, double number) {
         switch (action) {
             case "+":
