@@ -7,6 +7,7 @@ import java.util.Map;
 // 1) Добавление номера
 // 2) Вывод всего
 
+
 public class Task_1 {
     public static void main(String[] args) {
         Map<String, ArrayList<Integer>> bookPhone = new HashMap<>();

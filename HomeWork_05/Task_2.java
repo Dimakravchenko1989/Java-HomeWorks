@@ -6,6 +6,7 @@ import java.util.Map;
 // Написать программу, которая найдет и выведет повторяющиеся имена с количеством повторений.
 // Отсортировать по убыванию популярности Имени.
 
+
 public class Task_2 {
     public static void main(String[] args) {
         Map<String, Integer> nameMap = new HashMap<>();
