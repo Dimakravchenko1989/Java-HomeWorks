@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.logging.*;
 
+import HomeWork_05.Task_1;
+
 public class Task_1 {
     public static void main(String[] args) throws IOException {
         // Создаём логер
